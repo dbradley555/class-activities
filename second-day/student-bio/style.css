@@ -1,19 +1,20 @@
 .lesson {
-  background-color: lemonchiffon;
+  background-color: purple;
 }
-
+.section2 {
+  background-color: blue;
+  color: orange;
+}
+.section4 {
+  background-color: black;
+  color: white;
+}
+.title1 {
+  color: yellow;
+}
 .title {
-  color: darkblue;
+  color: orange;
 }
-
-#email {
-  background-color: goldenrod;
-}
-
-#github {
-  background-color: lightsteelblue;
-}
-
 #portfolio {
-  background-color: darkorange;
+  color: yellow;
 }
